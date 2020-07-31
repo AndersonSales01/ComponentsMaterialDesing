@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ComponentsMaterialDesing</string>
+    <string name="share_now">Share Now</string>
+    <string name="homem_executivo_de_terno">Homem executivo de terno</string>
+    <string name="free_delivery">Free Delivery</string>
+    <string name="add_to_favorites">Add to Favorites</string>
+    <string name="add_to_share">Add to Share</string>
+    <string name="share">share</string>
+    <string name="show_bottom_sheet_dialog">show bottom sheet dialog</string>
+    <string name="text_ferrari">Ferrari é uma fabricante italiana de carros esportivos de luxo com sede em Maranello. Fundada por Enzo Ferrari em 1939 na divisão de corridas da Alfa Romeo com o nome Auto Avio Costruzioni, a empresa construiu seu primeiro carro em 1940. No entanto, o início da empresa como fabricante de automóveis é geralmente reconhecido em 1947, quando o primeiro carro com o nome Ferrari foi concluído.</string>
+</resources>
