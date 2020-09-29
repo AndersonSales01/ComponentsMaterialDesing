@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.a.componentsmaterialdesing.animations.AnimationsActivity
 import com.a.componentsmaterialdesing.charts.ChartsActivity
+import com.a.componentsmaterialdesing.search_view.SearchViewActivity
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
@@ -35,6 +36,11 @@ class MainActivity : AppCompatActivity() {
 
         btn_chart.setOnClickListener {
             val intent = Intent(this,ChartsActivity::class.java)
+            startActivity(intent)
+        }
+
+        btn_searchView.setOnClickListener{
+            val intent = Intent(this,SearchViewActivity::class.java)
             startActivity(intent)
         }
 

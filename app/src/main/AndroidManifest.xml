@@ -9,7 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".charts.radar.RadarChartActivity"></activity>
+        <activity android:name="com.a.componentsmaterialdesing.search_view.SearchViewActivity"
+            android:theme="@style/fullscreen"
+            android:label="User"/>
+        <activity android:name=".charts.radar.RadarChartActivity" />
         <activity android:name=".charts.pie.PieChartActivity" />
         <activity android:name=".charts.bar.BarChartActivity" />
         <activity android:name=".charts.ChartsActivity" />
